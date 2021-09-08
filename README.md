@@ -1,9 +1,9 @@
 # About Me
 Hey guys :wave: 😄
 
-I'm Farid Ghaderi, a 19yo (junior)Back-end Developer from Sanandaj/Iran who is trying to be the best in his stack and also have a look on being a Full Stack Developer in the future, but not this soon. I'm working on my Back-end skills right now.
+I'm Farid Ghaderi, a 19yo (junior)Back-end Developer from Sanandaj/Iran who is trying his best to be better every day and learn as much as he can, and also have a look at being a Full Stack Developer in the future and learn MERN stack, but not this soon. I'm working on my Back-end skills right now.
 
-I'm currently studying software developing at Enghelab-e Eslami Technical College that is located in Tehran, but because of COVID-19 panademic I just live in sananadj.
+I'm currently studying software engineering at Enghelab-e Eslami Technical College that is located in Tehran, but because of the COVID-19 pandemic I just live in Sanandaj.
 
 <a href="https://www.instagram.com/far1dghaderi"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>&nbsp;
 <a href="https://t.me/far1dghaderi"><img src="https://img.shields.io/badge/Telegram-%23E4405F.svg?&style=for-the-badge&logo=telegram&logoColor=white&color=lightblue" alt="Instagram" /></a>&nbsp;
