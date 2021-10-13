@@ -29,6 +29,12 @@ I'm currently studying software engineering at Enghelab-e Eslami Technical Colle
 
   <img src="https://img.shields.io/badge/MongoDB-%23E4405F.svg?&style=for-the-badge&logo=mongodb&logoColor=lightgreen&color=black" alt="MongoDB" /></a>&nbsp;
   
+* Others:
+
+  <img src="https://img.shields.io/badge/Git-%23E4405F.svg?&style=for-the-badge&logo=Git&logoColor=orange&color=black" alt="MongoDB" /></a>&nbsp;
+
+ 
+  
 I have a telegram channel that I post programming-related stuff daily:
 
 [@Irancoderz](https://t.me/irancoderz)
