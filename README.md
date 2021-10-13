@@ -17,6 +17,7 @@ I'm currently studying software engineering at Enghelab-e Eslami Technical Colle
  
   <img src="https://img.shields.io/badge/Node.JS-%23E4405F.svg?&style=for-the-badge&logo=Node.js&logoColor=lightgreen&color=black" alt="Node js" /></a>&nbsp;
   <img src="https://img.shields.io/badge/Express.JS-%23E4405F.svg?&style=for-the-badge&logo=Node.js&logoColor=lightgreen&color=black" alt="ExpressJS" /></a>&nbsp;
+  <img src="https://img.shields.io/badge/Socket.io-%23E4405F.svg?&style=for-the-badge&logo=Socket.io&logoColor=yellow&color=black" alt="ExpressJS" /></a>&nbsp;
   
 * Front-end:
  
