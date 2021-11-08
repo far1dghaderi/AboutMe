@@ -30,7 +30,8 @@ I'm currently studying software engineering at Enghelab-e Eslami Technical Colle
   
 * Others:
 
-  <img src="https://img.shields.io/badge/Git-%23E4405F.svg?&style=for-the-badge&logo=Git&logoColor=orange&color=black" alt="MongoDB" /></a>&nbsp;
+  <img src="https://img.shields.io/badge/Git-%23E4405F.svg?&style=for-the-badge&logo=Git&logoColor=orange&color=black" alt="git" /></a>&nbsp;
+  <img src="https://img.shields.io/badge/typescript-%23E4405F.svg?&style=for-the-badge&logo=typescript&logoColor=blue&color=black" alt="git" /></a>&nbsp;
 
  
   
