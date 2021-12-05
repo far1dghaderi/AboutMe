@@ -17,7 +17,8 @@ I'm currently studying software engineering at Enghelab-e Eslami Technical Colle
  
   <img src="https://img.shields.io/badge/Node.JS-%23E4405F.svg?&style=for-the-badge&logo=Node.js&logoColor=lightgreen&color=black" alt="Node js" /></a>&nbsp;
   <img src="https://img.shields.io/badge/Express.JS-%23E4405F.svg?&style=for-the-badge&logo=Node.js&logoColor=lightgreen&color=black" alt="ExpressJS" /></a>&nbsp;
-  <img src="https://img.shields.io/badge/Socket.io-%23E4405F.svg?&style=for-the-badge&logo=Socket.io&logoColor=lightgreen&color=black" alt="ExpressJS" /></a>&nbsp;
+  <img src="https://img.shields.io/badge/Socket.io-%23E4405F.svg?&style=for-the-badge&logo=Socket.io&logoColor=lightgreen&color=black" alt="spcket.io" /></a>&nbsp;
+    <img src="https://img.shields.io/badge/Redis-%23E4405F.svg?&style=for-the-badge&logo=Redis&logoColor=Red&color=black" alt="Redis" /></a>&nbsp;
   
 * Front-end:
  
@@ -32,8 +33,9 @@ I'm currently studying software engineering at Enghelab-e Eslami Technical Colle
 * Others:
 
   <img src="https://img.shields.io/badge/Git-%23E4405F.svg?&style=for-the-badge&logo=Git&logoColor=orange&color=black" alt="git" /></a>&nbsp;
-  <img src="https://img.shields.io/badge/typescript-%23E4405F.svg?&style=for-the-badge&logo=typescript&logoColor=blue&color=black" alt="git" /></a>&nbsp;
-  <img src="https://img.shields.io/badge/Redis-%23E4405F.svg?&style=for-the-badge&logo=Redis&logoColor=Red&color=black" alt="ExpressJS" /></a>&nbsp;
+  <img src="https://img.shields.io/badge/typescript-%23E4405F.svg?&style=for-the-badge&logo=typescript&logoColor=blue&color=black" alt="typescript" /></a>&nbsp;
+  <img src="https://img.shields.io/badge/Postman-%23E4405F.svg?&style=for-the-badge&logo=postman&logoColor=orange&color=black" alt="typescript" /></a>&nbsp;
+
 
  
   
