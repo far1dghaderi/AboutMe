@@ -39,7 +39,7 @@ I'm currently studying software engineering at Enghelab-e Eslami Technical Colle
 
  
   
-I have a telegram channel that I post programming-related stuff daily:
+I have a telegram channel that I post programming stuff daily:
 
 [@Irancoderz](https://t.me/irancoderz)
 
