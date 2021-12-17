@@ -35,7 +35,7 @@ I'm currently studying software engineering at Enghelab-e Eslami Technical Colle
   <img src="https://img.shields.io/badge/Git-%23E4405F.svg?&style=for-the-badge&logo=Git&logoColor=orange&color=black" alt="git" /></a>&nbsp;
   <img src="https://img.shields.io/badge/typescript-%23E4405F.svg?&style=for-the-badge&logo=typescript&logoColor=blue&color=black" alt="typescript" /></a>&nbsp;
   <img src="https://img.shields.io/badge/Postman-%23E4405F.svg?&style=for-the-badge&logo=postman&logoColor=orange&color=black" alt="postman" /></a>&nbsp;
-  <img src="https://img.shields.io/badge/jest-%23E4405F.svg?&style=for-the-badge&logo=jest&logoColor=orange&color=black" alt="jest" /></a>&nbsp;
+  //<img src="https://img.shields.io/badge/jest-%23E4405F.svg?&style=for-the-badge&logo=jest&logoColor=orange&color=black" alt="jest" /></a>&nbsp;
 
 
  
