@@ -23,8 +23,8 @@ I'm currently studying software engineering at Enghelab-e Eslami Technical Colle
 * Front-end:
  
   <img src="https://img.shields.io/badge/Vanilla JS-%23E4405F.svg?&style=for-the-badge&logo=javascript&logoColor=yellow&color=black" alt="Javascript" /></a>&nbsp;
-  <img src="https://img.shields.io/badge/HTML-%23E4405F.svg?&style=for-the-badge&logo=HTML5&logoColor=orange&color=black" alt="HTML" /></a>&nbsp;
-  <img src="https://img.shields.io/badge/CSS-%23E4405F.svg?&style=for-the-badge&logo=CSS3&logoColor=blue&color=black" alt="CSS" /></a>&nbsp;
+  <img src="https://img.shields.io/badge/React js-%23E4405F.svg?&style=for-the-badge&logo=react&logoColor=lightblue&color=black" alt="reactjs" /></a>&nbsp;
+
 
 * Database:
 
