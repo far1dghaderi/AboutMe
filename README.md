@@ -1,7 +1,7 @@
 # About Me
 Hey guys :wave: 😄
 
-I'm Farid Ghaderi, a 20yo (junior)Back-end Developer from Sanandaj/Iran who is trying his best to be better every day and learn as much as he can, and also I have a look at being a Full Stack Developer in the near future and learn MERN stack, but not this soon. I'm working on my Back-end skills right now.
+I'm Farid Ghaderi, a junior back-end developer who is in love with Javascript and everything that is kinda related to it. I'm working with Node.js since early 2021 and I'm trying to do my best with javascript and learn as much as I can, especially in back-end.
 
 I'm currently studying software engineering at Enghelab-e Eslami Technical College that is located in Tehran, but because of the COVID-19 pandemic I just live in Sanandaj.
 
