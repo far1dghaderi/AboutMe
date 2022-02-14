@@ -30,6 +30,7 @@ I'm Farid Ghaderi, a junior back-end developer who is in love with Javascript an
 
   <img src="https://img.shields.io/badge/MongoDB-%23E4405F.svg?&style=for-the-badge&logo=mongodb&logoColor=lightgreen&color=black" alt="MongoDB" /></a>&nbsp;
   <img src="https://img.shields.io/badge/Postgresql-%23E4405F.svg?&style=for-the-badge&logo=postgresql&logoColor=lightpurple&color=black" alt="PostgreSQL" /></a>&nbsp;
+  <img src="https://img.shields.io/badge/SQLite-%23E4405F.svg?&style=for-the-badge&logo=sqlite&logoColor=blue&color=black" alt="Redis" /></a>&nbsp;
   <img src="https://img.shields.io/badge/Redis-%23E4405F.svg?&style=for-the-badge&logo=Redis&logoColor=Red&color=black" alt="Redis" /></a>&nbsp;
   
 * Others:
