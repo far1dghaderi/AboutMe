@@ -1,10 +1,9 @@
 # About Me
 Hey guys :wave: 😄
 
-I'm Farid Ghaderi, a junior back-end developer who is in love with Javascript and everything that is kinda related to it. I'm working with Node.js since early 2021 and I'm trying to do my best with javascript and learn as much as I can, especially in back-end.
+I'm Farid Ghaderi, a junior back-end developer who is in love with Javascript and everything that is kinda related to it. 
 
-I'm currently studying software engineering at Enghelab-e Eslami Technical College that is located in Tehran, but because of the COVID-19 pandemic I just live in Sanandaj.
-
+## Reach me:
 <a target="_blank" href="https://www.instagram.com/far1dghaderi"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>&nbsp;
 <a target="_blank" href="https://t.me/far1dghaderi"><img src="https://img.shields.io/badge/Telegram-%23E4405F.svg?&style=for-the-badge&logo=telegram&logoColor=white&color=lightblue" alt="Telegram" /></a>&nbsp;
 <a target="_blank" href="https://www.linkedin.com/in/farid-ghaderi-ba9911167/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
