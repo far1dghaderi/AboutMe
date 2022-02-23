@@ -23,7 +23,6 @@ I'm Farid Ghaderi, a junior back-end developer who is in love with Javascript an
 * Front-end:
  
   <img src="https://img.shields.io/badge/Vanilla JS-%23E4405F.svg?&style=for-the-badge&logo=javascript&logoColor=yellow&color=black" alt="Javascript" /></a>&nbsp;
-  <img src="https://img.shields.io/badge/React js-%23E4405F.svg?&style=for-the-badge&logo=react&logoColor=lightblue&color=black" alt="reactjs" /></a>&nbsp;
 
 
 * Database:
@@ -36,11 +35,13 @@ I'm Farid Ghaderi, a junior back-end developer who is in love with Javascript an
 * Others:
 
   <img src="https://img.shields.io/badge/typescript-%23E4405F.svg?&style=for-the-badge&logo=typescript&logoColor=blue&color=black" alt="typescript" /></a>&nbsp;
+
+  
+* Tools:
+
   <img src="https://img.shields.io/badge/Git-%23E4405F.svg?&style=for-the-badge&logo=Git&logoColor=orange&color=black" alt="git" /></a>&nbsp;
   <img src="https://img.shields.io/badge/Postman-%23E4405F.svg?&style=for-the-badge&logo=postman&logoColor=orange&color=black" alt="postman" /></a>&nbsp;
 
-
- 
   
 I have a telegram channel that I post programming stuff daily:
 
