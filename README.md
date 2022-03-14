@@ -23,6 +23,7 @@ I'm Farid Ghaderi, a junior back-end developer who is in love with Javascript an
 * Front-end:
  
   <img src="https://img.shields.io/badge/Vanilla JS-%23E4405F.svg?&style=for-the-badge&logo=javascript&logoColor=yellow&color=black" alt="Javascript" /></a>&nbsp;
+  <img src="https://img.shields.io/badge/React Js-%23E4405F.svg?&style=for-the-badge&logo=react&logoColor=lightblue&color=black" alt="Javascript" /></a>&nbsp;
 
 
 * Database:
