@@ -47,7 +47,13 @@ I have a telegram channel that I post programming stuff daily:
 
 [@Irancoderz](https://t.me/irancoderz)
 
-  
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=far1dghaderi&show_icons=true&theme=radical)
+<br/>
+</br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=far1dghaderi)](https://github.com/anuraghazra/github-readme-stats)
+<br/>
+</br>
+![](https://komarev.com/ghpvc/?username=far1dghaderi&color=green)
 
 
 
