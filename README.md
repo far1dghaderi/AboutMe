@@ -45,10 +45,11 @@ I have a telegram channel that I post programming stuff daily:
 
 [@Irancoderz](https://t.me/irancoderz)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=far1dghaderi&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=far1dghaderi&show_icons=true&theme=radical&hide_border=true)
 <br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=far1dghaderi&theme=radical&hide_border=true)<br/>
 </br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=far1dghaderi)](https://github.com/anuraghazra/github-readme-stats)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=far1dghaderi&theme=radical&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 <br/>
 </br>
 ![](https://komarev.com/ghpvc/?username=far1dghaderi&color=green)
