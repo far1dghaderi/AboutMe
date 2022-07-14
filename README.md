@@ -2,7 +2,6 @@
 Hey guys :wave: 😄
 
 I'm Farid Ghaderi, a back-end developer who is in love with Javascript and everything that is kinda related to it. 
-test gpg key
 
 ## Reach me:
 <a target="_blank" href="https://www.instagram.com/far1dghaderi"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>&nbsp;
