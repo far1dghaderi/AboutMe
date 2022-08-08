@@ -47,6 +47,14 @@ class Farid extends Ghaderi{
 }
 ```
 
+## Reach me:
+<a target="_blank" href="https://www.instagram.com/far1dghaderi"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>&nbsp;
+<a target="_blank" href="https://t.me/far1dghaderi"><img src="https://img.shields.io/badge/Telegram-%23E4405F.svg?&style=for-the-badge&logo=telegram&logoColor=white&color=lightblue" alt="Telegram" /></a>&nbsp;
+<a target="_blank" href="https://www.linkedin.com/in/farid-ghaderi-ba9911167/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
+<a target="_blank" href="mailto:faridghaderi2001@gmail.com?subject=Hello%20Farid"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>&nbsp;
+<a target="_blank" href="https://steamcommunity.com/id/faridghaderi/"><img src="https://img.shields.io/badge/Steam-%23D14836.svg?&style=for-the-badge&logo=steam&logoColor=white&color=black" alt="Steam"/></a>&nbsp;
+<a target="_blank" href="https://open.spotify.com/user/31x6lco4icgzjpcmi3jfewxgbysq?si=e76c93303d744ea6"><img src="https://img.shields.io/badge/spotify-%23D14836.svg?&style=for-the-badge&logo=spotify&logoColor=green&color=black" alt="spotify"/></a>&nbsp;
+
 <!--
 <div align="center">
   <a href="https://open.spotify.com/user/6s6pbtefezpookh8gwnkko15v">
@@ -63,4 +71,6 @@ class Farid extends Ghaderi{
     <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=far1dghaderi&theme=gruvbox&hide_border=true" />
 </p>
 <br>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=far1dghaderi&layout=compact&show_icons=true&theme=gruvbox&hide_border=true")](https://github.com/anuraghazra/github-readme-stats)
 
