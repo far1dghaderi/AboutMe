@@ -41,14 +41,14 @@ Hola! I'm Farid Ghaderi, a backend developer who is currently living in Sanandaj
 class Farid extends Ghaderi{
   constructor(){
     this.name = "Farid Ghaderi";
-    self.location = "Sanandaj, Iran";
+    this.location = "Sanandaj, Iran";
     this.birthdate = "11 October 2001";
   }
 }
 ```
 
 <div align="center">
-  <a href="https://open.spotify.com/user/6s6pbtefezpookh8gwnkko15v">
+  <a href="https://open.spotify.com/user/31x6lco4icgzjpcmi3jfewxgbysq">
     <img src="https://readme-spotify-tingz.vercel.app/api/now-playing">
   </a>
 </div>
