@@ -1,3 +1,5 @@
+![](https://komarev.com/ghpvc/?username=far1dghaderi&color=green&style=for-the-badge&color=blueviolet)
+
 <h1 align="center">
   <b>Hey Guys👋</b>
 </h1>
