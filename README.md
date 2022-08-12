@@ -44,7 +44,7 @@ class Farid extends Ghaderi{
   constructor(){
     this.name = "Farid Ghaderi";
     this.location = "Sanandaj, Iran";
-    this.birthdate = "11 October 2001";
+    this.birthdate = "12 October 2001";
   }
 }
 ```
@@ -56,14 +56,6 @@ class Farid extends Ghaderi{
 <a target="_blank" href="mailto:faridghaderi2001@gmail.com?subject=Hello%20Farid"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>&nbsp;
 <a target="_blank" href="https://steamcommunity.com/id/faridghaderi/"><img src="https://img.shields.io/badge/Steam-%23D14836.svg?&style=for-the-badge&logo=steam&logoColor=white&color=black" alt="Steam"/></a>&nbsp;
 <a target="_blank" href="https://open.spotify.com/user/31x6lco4icgzjpcmi3jfewxgbysq?si=e76c93303d744ea6"><img src="https://img.shields.io/badge/spotify-%23D14836.svg?&style=for-the-badge&logo=spotify&logoColor=green&color=black" alt="spotify"/></a>&nbsp;
-
-<!--
-<div align="center">
-  <a href="https://open.spotify.com/user/6s6pbtefezpookh8gwnkko15v">
-    <img src="https://spotify-readme-theta-virid.vercel.app/api?scan=true&theme=dark" width="240px">
-  </a>
-</div>
--->
 
 ## My Statistics
 
