@@ -6,7 +6,7 @@
   <b>Hey Guys👋</b>
 </h1>
 
-Hola! I'm Farid Ghaderi, a backend developer who is living in Sanandaj, Iran. I'm trying to improve my skills in the backend right now, also I have an eye on the the frontend development to become a full-stack developer.
+Hola! I'm Farid Ghaderi, a backend developer who is living in Sanandaj, Iran. I'm trying to improve my skills in the backend right now, also I have an eye on frontend development to become a full-stack developer.
 
 <br>
 
