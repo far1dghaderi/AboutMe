@@ -23,8 +23,6 @@ Hola! I'm Farid Ghaderi, a backend developer who is living in Sanandaj, Iran. I'
   <img src="https://img.shields.io/badge/-javascript-EAD41C?style=for-the-badge&logo=javascript&logoColor=EAD41C&labelColor=282828">
   <img src="https://img.shields.io/badge/-typescript-0074C2?style=for-the-badge&logo=typescript&logoColor=0074C2&labelColor=282828">
   <img src="https://img.shields.io/badge/-Reactjs-5ED3F3?style=for-the-badge&logo=react&logoColor=5ED3F3&labelColor=282828">
-  <img src="https://img.shields.io/badge/-HTML-D84924?style=for-the-badge&logo=html5&logoColor=D84924&labelColor=282828">
-  <img src="https://img.shields.io/badge/-CSS-2449D8?style=for-the-badge&logo=css3&logoColor=2449D8&labelColor=282828">
 </div>
 </p>
 <p>
