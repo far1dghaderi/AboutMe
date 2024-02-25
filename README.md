@@ -37,10 +37,15 @@ Hola! I'm Farid Ghaderi, a backend developer who is living in Sanandaj, Iran. I'
   <img src="https://img.shields.io/badge/-git-E44C30?style=for-the-badge&logo=git&logoColor=E44C30&labelColor=282828">
   <img src="https://img.shields.io/badge/-Postman-F26734?style=for-the-badge&logo=postman&logoColor=F26734&labelColor=282828">
   <img src="https://img.shields.io/badge/-swagger-679200?style=for-the-badge&logo=swagger&logoColor=679200&labelColor=282828">
-  <img src="https://img.shields.io/badge/-Google Cloud-yellow?style=for-the-badge&logo=googlecloud&logoColor=darkblue&labelColor=red">
-  <img src="https://img.shields.io/badge/-AWS-yellow?style=for-the-badge&logo=amazon&logoColor=darkblue&labelColor=red">
+  <img src="https://img.shields.io/badge/-Docker-1C60E6?style=for-the-badge&logo=DOCKER&logoColor=blue&labelColor=282828">
 </div>
 </p>
+<div align="center">
+  <p>
+    <img src="https://img.shields.io/badge/-Google Cloud-yellow?style=for-the-badge&logo=googlecloud&logoColor=darkblue&labelColor=red">
+    <img src="https://img.shields.io/badge/-AWS-yellow?style=for-the-badge&logo=amazon&logoColor=darkblue&labelColor=red">
+  </p>
+</div>
 
 ```typescript
 class Farid extends Ghaderi{
